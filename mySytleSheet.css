@@ -12,7 +12,7 @@
 .img-bck{
     width: 40%;
     height: 100vh;
-    background: url(../images/palmLeave.png);
+    background: url('palmLeave.png');
     background-size: cover;
     background-repeat: no-repeat;
     margin-right: 10px;;
